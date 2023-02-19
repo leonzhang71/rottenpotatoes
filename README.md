@@ -26,3 +26,5 @@ Things you may want to cover:
 
 Issue: ActiveRecord::NoEnvironmentInSchemaError
 Solved:https://stackoverflow.com/questions/45925383/activerecordnoenvironmentinschemaerror
+
+https://rottenpotatoes-cz.herokuapp.com/ | https://git.heroku.com/rottenpotatoes-cz.git
