@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Issue: ActiveRecord::NoEnvironmentInSchemaError
+Solved:https://stackoverflow.com/questions/45925383/activerecordnoenvironmentinschemaerror
